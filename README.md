@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `Demo`
+
+:warning: **This is a group chat and everyone who signs in will be able to see your messages**: Be respectful and polite!
+
+[Demo](https://superchat-5f806.firebaseapp.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
